@@ -123,5 +123,5 @@ expense added successfully
 
 * Project Name: **Daily Expense Recorder**
 * Language Used: **Python**
-* MADE BY DIPIKA ANAND
+* BY DIPIKA ANAND
 
